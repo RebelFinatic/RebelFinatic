@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharuksha Wickramarachchi</h1>
+<h1 align="center">Hi 👋, I'm RebelFinatic</h1>
 <h3 align="center">A Passionate FiveM Developer from Sri Lanka</h3>
 
 <br>
